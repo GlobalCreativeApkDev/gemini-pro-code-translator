@@ -1,3 +1,19 @@
+Metadata-Version: 2.1
+Name: gemini-pro-code-translator
+Version: 1
+Summary: This package contains implementation of a code translator with Gemini Pro integrated into it.
+Home-page: https://github.com/GlobalCreativeApkDev/gemini-pro-code-translator
+Author: GlobalCreativeApkDev
+Author-email: globalcreativeapkdev2022@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # gemini-pro-code-translator
 
 Ever wondered about translating code from one programming language to another quickly? **Gemini Pro Code Translator**
