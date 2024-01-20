@@ -9,7 +9,7 @@ def readme():
 
 setup(
     name='gemini-pro-code-translator',
-    version='1',
+    version='1.1',
     packages=['gemini-pro-code-translator'],
     url='https://github.com/GlobalCreativeApkDev/gemini-pro-code-translator',
     license='MIT',

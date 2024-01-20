@@ -5,7 +5,7 @@ is the tool to do so.
 
 # Source Code
 
-The source code of the application **Gemini Pro Code Translator** is available in 
+The source code of the application **Gemini Pro Code Translator** is available in [Source Code](https://github.com/GlobalCreativeApkDev/gemini-pro-code-translator/blob/master/main.py).
 
 # Installation
 

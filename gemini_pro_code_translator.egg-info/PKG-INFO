@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: gemini-pro-code-translator
-Version: 1
+Version: 1.1
 Summary: This package contains implementation of a code translator with Gemini Pro integrated into it.
 Home-page: https://github.com/GlobalCreativeApkDev/gemini-pro-code-translator
 Author: GlobalCreativeApkDev
@@ -21,7 +21,7 @@ is the tool to do so.
 
 # Source Code
 
-The source code of the application **Gemini Pro Code Translator** is available in 
+The source code of the application **Gemini Pro Code Translator** is available in [Source Code](https://github.com/GlobalCreativeApkDev/gemini-pro-code-translator/blob/master/main.py).
 
 # Installation
 
